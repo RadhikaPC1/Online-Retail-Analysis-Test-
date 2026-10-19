@@ -1,4 +1,4 @@
-# 🛍️ Online Retail Sales Analysis Dashboard (Power BI) – Tata Internship Task 3
+# 🛍️ Online Retail Sales Analysis Dashboard (Power BI) – Tata Internship Task 
 
 A **Power BI report** built as **Task 3 of the Tata internship**. It analyses online retail transactions and answers four business questions about revenue trends, top countries, top customers and geographic demand.
 
