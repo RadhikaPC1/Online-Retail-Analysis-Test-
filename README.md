@@ -17,18 +17,6 @@ A **Power BI report** built as **Task 3 of the Tata internship**. It analyses on
 
 ---
 
-## 📈 Key Metrics
-
-| KPI | Value |
-|---|---|
-| Total Revenue | _add value_ |
-| Total Quantity Sold | _add value_ |
-| Total Customers | _add value_ |
-| Top Country by Revenue | _add value_ |
-| Top Customer by Revenue | _add value_ |
-| Best Revenue Month | _add value_ |
-
----
 
 ## ✨ Dashboard Features
 
